@@ -1,0 +1,19 @@
+{
+    "dependencies": {
+      "libraries": []
+    },
+    "dataStudio": {
+      "name": "Keyword.com SOV by Tag",
+      "logoUrl": "https://seonotebook.com/wp-content/uploads/2020/07/seonotebook-logo-rgb.png",
+      "addonUrl": "https://github.com/ftawfig",
+      "company": "seonotebook.com",
+      "supportUrl": "https://github.com/ftawfig",
+      "description": "Get SOV data broken out by tag from keyword.com API",
+      "sources": [
+        "keyword.com"
+      ]
+    },
+    "oauthScopes": [
+      "https://www.googleapis.com/auth/script.external_request"
+    ]
+  }
